@@ -1,0 +1,10 @@
+﻿Programování 3.R;prog3r
+Xamarin;Xamarin
+Programování 4.R;prog4r
+Úkoly 1.pol;ukoly
+Úkoly 2.pol;ukoly2
+Grafika a vlákna;ukoly3
+Závěr;end
+Práce pro zájemce;praceProZajemce
+Přednášky;prednasky
+Odkazy;odkazy

@@ -1,0 +1,3 @@
+Známé osobnosti;osobnosti.php
+Osobní rozvoj;osobni.php
+Technické;technicke.php

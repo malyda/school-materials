@@ -1,0 +1,3 @@
+Path;Name;Size;Type;isDeleted
+C:\Users\;Baby;15000;mp3;0
+D:\Ukoly\;Tahak;300;txt;1
