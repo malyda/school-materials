@@ -1,3 +1,2 @@
 Multiplatformní vývoj;multiPlatform.php
 Xamarin;xamarin.php
-PCL vs Shared;PCLvsShared.php

@@ -2,7 +2,8 @@
 <p>Navázání na znalosti z minulého ročníku na téma grafické aplikace ve WPF</p>
 
 <h3>Snake / Pong</h3>
-<p>Vytvořte ve WPF hru Snake nebo Pong</p>
+<p>Vytvořte ve WPF hru Snake nebo Pong
+<strong>Termín:3.10, L2 - 10.10</strong></p>
 
 <h3>XML a JSON</h3>
 <ol>

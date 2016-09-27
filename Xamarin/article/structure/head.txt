@@ -1,0 +1,2 @@
+Rozdělení projektu;structure.php
+PCL vs Shared;PCLvsShared.php
