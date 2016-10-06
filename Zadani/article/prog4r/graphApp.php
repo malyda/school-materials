@@ -17,6 +17,7 @@
 	<li> z odkazu výše vyberte server, který vrací JSON. Na tento server se dotažte pomocí vytvořené aplikace která, získá JSON, nahraje jeho obsah do vytvořené třídy, přidá záznam o datu a času stáhnutí a uloží na lokální disk<br>
 		<i>*Pozn. <a href = "http://json2csharp.com/">json to C#</a><br>
 		Server s JSON <a href="https://ucitel.sps-prosek.cz/~maly/PRG/json.php"> odpovědí </a>
-	
+		<br><a href="https://github.com/malyda/REST"> Zdrojový projekt </a>
 	</li>
+
 </ol>
