@@ -9,3 +9,5 @@
 <p>
 Model využívá těchto společných rysů, aby zobecnil běžné aktivity (<strong>abstrakce</strong>). Pomocí takového modelu, je možné, nikdy neřešený problém klasifikovat a na <strong>základě podobnosti s předem řešeným problémem, najít známý postup jeho řešení</strong>.</p>
 <p>Příklad: píchneme-li pneumatiku u auta, její výměna bude vždy stejná bez ohledu na auto (pokud počítáme s běžnými vozy), rozdílná bude například v typu jistících šroubů atd.</p>
+
+<a href=http://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp">SOLID</a>

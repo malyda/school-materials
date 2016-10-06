@@ -1,3 +1,0 @@
-Name;HP;Attack;Armor
-Leonidas;400;200;5
-Achilles;1;300;999

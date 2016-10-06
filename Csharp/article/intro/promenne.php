@@ -29,3 +29,5 @@ int x = 5; // Deklarace a inicializace na jeden řádek
 	}
 }
 </code></pre></p>
+
+<a href="https://msdn.microsoft.com/en-us/library/ff926074.aspx">Name convention</a>

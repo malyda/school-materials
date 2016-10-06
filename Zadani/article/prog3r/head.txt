@@ -1,3 +1,7 @@
 Úvod do C#;Cintro.php
 OOP;OOP.php
+WinForms;WinForms.php
+Pole;arrays.php
+Řadící algoritmy;algs.php
 Dlouhodobé projekty;longTherm.php
+Příprava na maturitu;okr.php

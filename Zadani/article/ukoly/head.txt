@@ -1,6 +1,0 @@
-﻿Seznam;Seznam.php
-Algoritmy;Algoritmy.php
-Práce s konzolí - výstup;konzole-vystup.php
-Práce s konzolí - vstup;konzole-vstup.php
-Uspávání vlákna;taskSleep.php
-OOP;OOP.php
