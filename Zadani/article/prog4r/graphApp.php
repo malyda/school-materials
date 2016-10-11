@@ -9,6 +9,7 @@
 <ol>
 	<li>Vytvořte program, který umožňuje evidenci osob. Data jsou uložena v csv souborech</li>
 	<li>Program podporuje export dat do XML a JSON</li>
+	<a href="https://github.com/malyda/JsonAndXml"> Pomocný projekt </a>
 </ol>
 
 <h3>Komunikace se serverem</h3>
