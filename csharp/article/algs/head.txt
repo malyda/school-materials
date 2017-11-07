@@ -1,0 +1,7 @@
+Úvod do řadících algoritmů;algs.php
+Bubble sort;bubble.php
+Selection sort;select.php
+Insertion sort;insert.php
+Merge sort;merge.php
+Quick sort;quick.php
+Heap sort;heap.php

@@ -1,0 +1,11 @@
+Programovací jazyky;proglang
+Úvod do C#;intro
+OOP;OOP
+Programovací modely;models
+Pole;arrays
+Grafika;graphics
+Ukládání dat;database
+Vlákna;threads
+Řadící algoritmy;algs
+Api;api
+Odkazy;links

@@ -1,0 +1,27 @@
+body,html .text-base
+{
+	 text-align: left;
+	 font-family: Georgia,Times,Times New Roman,serif !important;
+	 font-weight: 400;
+	 color: #414141;
+	 font-size: 15px;
+	 line-height:24px;
+	 height: 100%;
+}
+
+.mdl-color--primary
+{
+	background-color:rgb(156,39,176) !important;
+}
+.mdl-color-text--primary
+{
+	color:rgb(156,39,176)!important;
+}
+.mdl-layout__header
+{
+	background:rgb(156,39,176)!important;
+}
+.mdl-layout__tab.is-active::after
+{
+	background:rgb(255,171,64)!important;
+}

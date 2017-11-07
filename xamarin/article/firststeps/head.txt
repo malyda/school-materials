@@ -1,0 +1,3 @@
+Založení projektu;newProject.php
+Přiadání nové Page;newPage.php
+Spuštění aplikace;runApp.php

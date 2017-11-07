@@ -1,0 +1,5 @@
+﻿Proměnné;promenne.php
+Datové typy;datoveTypy.php
+Rozhodování;rozhodovani.php
+Cykly;Cykly.php
+Základní příkazy;ZakladniPrikazy.php

@@ -1,0 +1,10 @@
+Úvod do C#;Cintro.php
+OOP;OOP.php
+WPF;WPF.php
+Práce se soubory;files.php
+Interface a Abstraction class;interface.php
+Pole;arrays.php
+Řadící algoritmy;algs.php
+Dlouhodobé projekty;longTherm.php
+Ukládání dat;database.php
+Příprava na maturitu;okr.php
