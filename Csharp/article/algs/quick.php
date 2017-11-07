@@ -100,5 +100,5 @@ private static int Partition(int[] arr, int left, int right)
 <p><i>Pozn. Velká rychlost algoritmu je vyvážena jeho neefektivností na částečně seřazených polích</i><br>
 <br>Vylepšenou verzí je QuickSort 3, který rozděluje pole na menší, stejné a větší prvky.
 <br><br> Odkazy pro rozšíření daného téma:<br></p>
- <a class="right" href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-quick-sort-razeni-cisel-podle-velikosti/">ITnetwork</a><br>
- <a class="right" href="https://www.algoritmy.net/article/10/Quicksort" >Algoritmy.net</a>
+ <a  href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-quick-sort-razeni-cisel-podle-velikosti/">ITnetwork</a>
+ <a  href="https://www.algoritmy.net/article/10/Quicksort" >Algoritmy.net</a>

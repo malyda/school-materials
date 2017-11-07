@@ -69,7 +69,7 @@ foreach(int x in arrayList)
 </pre>
 <p>Při hledání chybového stavu aplikace bude programátor nejdříve hledat chybu v přičítání čísel, poté zjistí, že je chyba v uložení dat v ArrayList a až poté začne řešit problém s tím, jak se špatná hodnota do ArrayList dostala.</p> 
 
-<a href='http://beginnersbook.com/2013/12/difference-between-arraylist-and-vector-in-java/' class="right"> Rozdíl mezi ArrayList a Vector</a><br>
-<a href='http://stackoverflow.com/a/2279059/3864686'class="right"> Rozdíl mezi ArrayList a List</a><br>
-<a href='http://stackoverflow.com/questions/169973/when-should-i-use-a-list-vs-a-linkedlist'class="right"> Kdy použít LinkedList, ArrayList či List</a>
+<a href='http://beginnersbook.com/2013/12/difference-between-arraylist-and-vector-in-java/'> Rozdíl mezi ArrayList a Vector</a>
+<a href='http://stackoverflow.com/a/2279059/3864686'> Rozdíl mezi ArrayList a List</a>
+<a href='http://stackoverflow.com/questions/169973/when-should-i-use-a-list-vs-a-linkedlist'> Kdy použít LinkedList, ArrayList či List</a>
 

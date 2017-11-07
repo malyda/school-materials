@@ -7,19 +7,40 @@
 <h3>21 oko bere</h3>
 <p>
 Program, který reprezentuje hru: 21 oko bere. Používá balíček karet. Program hru implementuje tak, že počítač je bankéř a uživatel je hráč. Bankéř také hraje. </p>
+
 <h3>Dračí doupě</h3>
-<p> Naprogramovat hru na principu Dračího doupěte - zpracování je libovolné, musí však splňovat minimální požadavky: <br>
-	- kód se musí držet MVC či jiného běžně používaného programovacího modelu <br>
-	- kód musí být zdokumentovaný <br>
-	- vlastní třídy pro: hráče, nepřátele (aspoň 2 druhy), hrací kostku <br>
-	- musí být při boji umožněn útok,obrana <br>
-	- hráčův charakter se skládá ze základních dovedností (síla, zdraví), které se po každém vyhraném souboji, nebo po dosažení vyššího levelu zvýší <br>
-	- Vyplnit sumarizaci projektu a popsat myšlenku, nejdůležitější části. Stejné jako úvod odborné práce.<br>
-	- Termín: 2 dvouhodinové hodiny před koncem 3/4letí. <br>
-	<dd>Termín odevzdání práce je: <strong> na email</strong></dd></p>
-	<h4>Nejčastější chyby</h4>
+<a href="https://www.youtube.com/watch?v=kym41_O727E">Belegost</a>
 	<ul>
-		<li>Vše v jedné metodě - Main, nebo jediná ve Worker -> nepochopení k čemu jsou funkce -> nepochopení OOP</li>
+	
+	<p> Naprogramovat hru na principu Dračího doupěte - zpracování je libovolné, musí však splňovat minimální požadavky: <br>
+		<li> kód musí splňovat zásady pro tvorbu zdrojového kódu - <a href="http://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp">SOLID</a></li>
+		<li> kód musí být zdokumentovaný </li>
+		<li> kód pro UI je oddělený od kódu pro programovou logiku <a href="https://ucitel.sps-prosek.cz/~maly/PRG/materials/csharp/#wpf">MVVM ve WPF</a> </li>
+		<li> vlastní třídy pro: hráče, nepřátele (aspoň 2 druhy), hrací kostku </li>
+		<li> hráčův charakter se skládá ze základních dovedností (síla, zdraví), které se po každém vyhraném souboji, nebo po dosažení vyššího levelu zvýší </li>
+		<li> V programu musí být vhodně implementovány alespoň 4 Interface </li>
+	</ul>
+	<p>
+		Zapracování:
+	</p>
+	<ul>
+		<li>Příběh</li>
+		<li>Grafická část práce</li>
+	</ul>
+<h4>Bonusové body/jedničky navíc</h4>
+<p>
+	Kromě kódu a výsledné práce je hodnocen i přístup k práci, který je nad rámec zadání. Zde je několik možností:
+</p>
+<ul>
+	<li>Program je uložen na Gitovém serveru (Github, Bitbucked, atd.), kde jsou prokazatelně alespoň 4 Commity (nepočítaje Inicializační)</li>
+	<li>Kód se drží jednotného návrhového vzoru např. <a href="https://ucitel.sps-prosek.cz/~maly/PRG/materials/csharp/#wpf">MVVM ve WPF</a> </li>
+	<li>Program vhodně implementuje některý z <a href="http://www.dofactory.com/net/design-patterns">design patternů</a>
+	<li>Abstraktní třída</li>
+</ul> 
+	
+<h4>Nejčastější chyby</h4>
+	<ul>
+		<li>Vše v jedné metodě - Main, nebo jediná ve Worker -> nepochopení k čemu jsou matoda -> nepochopení OOP</li>
 		<li>MVC neznamená, že musíte jasně napsat, zda se jedná o View, Model, Controller, jde o princip komunikace mezi třídami. Např. pokud jde veškerý výstup přes Console, tak to je v pořádku. Je-li, ale nutné výstup pokaždé formátovat, vytvoří se pro něj metoda/funkce a ta se poté vloží do třídy, která shlukuje podobné metody. Častou chybou je nevhodné míchání Console a Vaší View třídy.</li>
 		<li>Tvorba metod/funkcí ještě jednou. Název metody se odvozuje od toho co dělá, jedná se o sled několika málo kroků např. checkUserInputDecission - kontroluje vstup uživatele a zda je v souladu s tím, co program požaduje jako rozhodnutí (číslo volby, slovní zápis atd.). Funkce/Metoda Game, která obsahuje celou hru bez dalších funkcí je špatně. Taková metoda by měla obsahovat pouze další metody např. Inicialization, StartGame atd.</li>
 		<li>V některých IDE je zakázané mít jiný název třídy a souboru, jako Class Osoba v souboru Class1.cs. Porušením nepsaných pravidel je umístění více tříd do jednoho souboru.</li>
@@ -73,4 +94,3 @@ else
 		<li>Budova, jejím postavením a maximálním levelem končí hra</li>
 	</ul>
 	Je možná variace dle hry Banished<br>
-	Datum odevzdání: <strong> 12.6.2016 </strong><br>

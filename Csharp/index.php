@@ -1,6 +1,6 @@
 ﻿<?php 
 $topic = "C#";
-$path = "../content/Csharp";
+$path = "../csharp";
 $pathMaterial = "../src/web";
 require "../../src/web/main.php";
  ?>

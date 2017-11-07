@@ -46,5 +46,5 @@ for(int i = 0; i < array.Length-1; i ++)
 <i>Pozn. V obecném měřítku je rychlejší než Bubble sort, ale pomalejší než Insertion sort.<br>
 Vhodný pokud situace vyžaduje co nejméně zápisů do paměti např. řazení souborů na SSD disku nebo jiné paměti.</i>
 <br><br> Odkazy pro rozšíření daného téma:<br></p>
- <a class="right" href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-selection-sort-razeni-cisel-podle-velikosti/">ITnetwork</a><br>
- <a class="right" href="https://www.algoritmy.net/article/4/Selection-sort">Algoritmy.net</a>
+ <a  href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-selection-sort-razeni-cisel-podle-velikosti/">ITnetwork</a>
+ <a  href="https://www.algoritmy.net/article/4/Selection-sort">Algoritmy.net</a>

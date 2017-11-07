@@ -38,6 +38,6 @@ Další kritéria hodnocení algoritmů jsou:</p>
 	<li>Ve všech ostatních případech - Quick sort </li>
 </ol></i>
 </p>
-<a class="right" href="http://www.sorting-algorithms.com/">Visualizace řadících algoritmů</a><br>
-<a class="right" href="https://cw.fel.cvut.cz/wiki/_media/courses/x33dsp/dsp-p3.pdf">Materiály ČVUT Fel</a><br>
-<a class="right" href="article/algs/Program.cs" download>Zdrojové kódy + Vícerozměrná pole</a>
+<a  href="http://www.sorting-algorithms.com/">Visualizace řadících algoritmů</a>
+<a  href="https://cw.fel.cvut.cz/wiki/_media/courses/x33dsp/dsp-p3.pdf">Materiály ČVUT Fel</a>
+<a  href="article/algs/Program.cs" download>Zdrojové kódy + Vícerozměrná pole</a>

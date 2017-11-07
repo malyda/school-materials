@@ -1,6 +1,6 @@
 <H2>.NET</H2>
 <p class="introduction">Platfroma .NET je soubor technologií umožňující, co největší přenositelnost aplikací na různé operační systémy a typy HW.<br>
-Tyto nástroje vytváří jednotné prostředí se zárukou sdílených knohevn.<br>
+Tyto nástroje vytváří jednotné prostředí se zárukou sdílených knihoven.<br>
 Nabízí řešení problému, kdy mnoho aplikací využívalo stejné knihovny, které musely být pokaždé zakompilované do aplikace. .NET tyto knihovny poskytuje všem programům, které je potřebují.<br>
 </p>
 <p>Výhody:</p>

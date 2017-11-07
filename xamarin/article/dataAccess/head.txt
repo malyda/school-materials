@@ -1,0 +1,2 @@
+Přístup k uložišti;fileAccess.php
+SQLite;database.php

@@ -19,11 +19,10 @@ Krk
 </code></pre>
 Výstup: nejdelší opakující se palindrom je:	Nepochopen, nejkratší je: Anna<br><br>
 <i>Pozn. nehledí se na diakritiku a velikost písmen.</i><br>
-Datum zadání: 23.2.2016- L2,23.2.2016 - L1, 23.2.2016 - L3
 </li><br><br>
 <li><strong>Dvojrozměrné pole - poprvé</strong><br>
 Vytvořte dvojrozměrné pole o velikosti 7x5 a toto pole vypište ve formě tabulky.
-<br>Datum zadání: 24.2.2016- L2, 1.3.2016 - L1, 2.3.2016 - L3 </li><br><br>
+ </li><br><br>
 <li><strong>Dvojrozměrné pole - práce se souborem</strong><br>
 Připravte v souboru tabulku čísel, tuto tabulku načtěte do dvojrozměrného pole a to vypište tak, aby výstup byl opět ve formě tabulky.<br>
 Příklad souboru:
@@ -43,12 +42,11 @@ Výstup programu:<br>
 int lineCount = File.ReadAllLines(@"C:\file.txt").Length;
 </code></pre>
 </i>
-<br>Datum zadání: 24.2.2016 - L2, 1.3.2016 - L1, 2.3.2016 - L3</li><br><br>
+</li><br><br>
 <li><strong><strong>Dvojrozměrné pole - matice</strong></strong><br>
 Vytvořte program, který použije uživatelem definovaný textový soubor a zamění řádky a sloupce. Kde jsou sloupce odděleny ";".<br>
 Vytvořte dvojrozměrné pole tak, aby reprezentovalo matici (tabulka o stejném počtu řádků a sloupců) a <strong>zaměňte řádky za sloupce</strong>.<br><br>
 <i>Pozn. zkontrolujte zda daný soubor je ve formátu matice, pokud není, vytvořte největší možnou.</i><br>
-<br>Datum zadání: 24.2.2016 - L2, 2.3.2016 - L1, 2.3.2016 - L3
 </li><br>
 <li>
 <strong>Dvojrozměrné pole - diagonály</strong><br>
@@ -61,7 +59,6 @@ Rozlišujeme hlavní a vedlejší diagonálu:
 	<li>Vedlejší je od pravého horního rohu po levý spodní - na obrázku zelená</li>
 </ul>
 </i>
-<br>Datum zadání: 24.2.2016, 2.3.2016 - L1, 3.3.2016 L3  - na hodině
 </li><br>
 <table class="center tabeů-square">
 	<tr>
@@ -84,9 +81,7 @@ Rozlišujeme hlavní a vedlejší diagonálu:
 <li> <strong>Dvojrozměrné pole - součet diagonál </strong><br>
 Vytvořte program, který sečte prvky pod hlavní diagonálou a porovná je se součtem prvků nad vedlejší diagonálou. Poté vypíše, který součet je větší. <br><br>
 <i> Pozn. prvky nad nebo pod diagonálou jsou prvky, kterých se diagonála netýka to jsou prvky 1,5,10 viz. tabulka výše. <br>
-<br>Datum zadání: 24.2.2016, 2.3.2016 - L1, 3.3 - L3<br>
 </li><br>
-<strong> Termín úkolů: úkoly č. 2-6 vč. L2: 22.3, 15.3 L1, 23.3 L3  - na hodině</strong><br><br>
 <li><strong>Dvojrozměrné pole - prohledávání</strong><br>
 Vytvořte soubor, který obsahuje tabulku. Tabulka představuje zisk společnosti, kde je každý řádek jeden rok a každý sloupec jeden kvartál (celkem 4) + první nebo pátý sloupec označuje konkrétní rok.<br>
 Program vypíše v jakém roce měla společnost největší zisk a v jakém kvartálu z celé této tabulky nejvíce prosperovala.<br>

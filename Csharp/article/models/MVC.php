@@ -25,6 +25,9 @@
 		<dd> Přístup k databázi - PHP+SQL</dd> </li>
 </ol>
    <img src = "images/MVC-prakticky.png" width='950px' height='400px'>
+  <br><br><br>  
+  <img src = "images/MVC-practise.png" height='750px'>
+   
 
    <br><br><br>
     Z praxe:<ol>

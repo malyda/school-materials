@@ -1,4 +1,4 @@
 <?php
-header("Location: Welcome/") or die();
+header("Location: welcome/") or die();
 ?>
 

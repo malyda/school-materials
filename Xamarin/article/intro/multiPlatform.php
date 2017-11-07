@@ -1,5 +1,5 @@
 <h2>Multiplatformní vývoj</h2>
-<p clas="introduction">
+<p class="introduction">
 	Mnoho aplikací v dnešní době je výsledkem jen vhodného spojení základních operací s daty (přidávání, editace a mazání), to vše v originálním grafickém designu. Z časového i finančního hlediska není efektiní tyto základní operace psát opětovně pro každou platformu. Psání jednoho kódu víckrát také zvyšuje jeho náročnost na údržbu.
 </p>
 <p>

@@ -38,3 +38,5 @@
 </ul>
 
 <i> Pozn. <a href="https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/part_1_-_understanding_the_xamarin_mobile_platform/"> Více o Xamarin </a></i>
+<br><a href="https://developer.xamarin.com/samples-all/">Xamarin examples</a>
+<br><a href="https://developer.xamarin.com/samples/xamarin-forms/all/">Xamarin  Forms examples</a>
