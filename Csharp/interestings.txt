@@ -1,5 +1,0 @@
-There is coffee all over the world...;http://tools.ietf.org/html/rfc2324;Hyper Text Coffee Pot Control Protocol
-Why did Microsoft name their new search engine BING? Because It's Not Google!;http://stackoverflow.com/a/1595797/3864686;Gergely Orosz 
- :D ;http://www.emojicode.org/;Emojicode
-Walking on water and developing software from a specification are easy if both are frozen.;http://stackoverflow.com/a/1926322/3864686;Michael Easter
-Before software can be reusable it first has to be usable;;Ralph Johnson

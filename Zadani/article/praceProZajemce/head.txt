@@ -1,4 +1,0 @@
-﻿Pythagorova věta;Pythagor.php
-FindX and FindMe;FindxFindMe.php
-Fallout;Fallout.php
-Úkázky dokumentace;UkazkyDokumentace.php

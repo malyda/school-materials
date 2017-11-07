@@ -1,7 +1,0 @@
-Programování 3.R;prog3r
-PCV 3.R;Xamarin
-Programování 4.R;prog4r
-Práce pro zájemce;praceProZajemce
-Opakování;backsteps
-Přednášky;prednasky
-Odkazy;odkazy

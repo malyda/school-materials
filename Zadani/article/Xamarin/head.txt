@@ -1,3 +1,0 @@
-Menší úkoly;mini.php
-Úvod do Xamarin;XamarinIntro.php
-Dlouhodobé projekty - Xamarin;longTherm.php

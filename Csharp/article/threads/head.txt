@@ -1,5 +1,0 @@
-﻿Vlákna;thread.php
-Task C#;task.php
-Task rozšířeně;taskExtended.php
-Synchronizace;sync.php
-ThreadPool;threadPool.php

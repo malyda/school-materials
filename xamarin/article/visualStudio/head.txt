@@ -1,2 +1,0 @@
-Chyby;errors.php
-Založení nového projektu;new.php

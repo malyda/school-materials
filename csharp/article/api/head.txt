@@ -1,2 +1,0 @@
-REST;rest.php
-Jednoduchá autentizace;login - base.php
