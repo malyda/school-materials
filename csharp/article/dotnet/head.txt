@@ -1,0 +1,3 @@
+Platforma .NET;Platforma dotNET.php
+.NET Core;netCore.php
+UWP;uwp.php

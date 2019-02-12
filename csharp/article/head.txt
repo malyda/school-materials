@@ -1,7 +1,9 @@
 Programovací jazyky;proglang
 Úvod do C#;intro
+.NET;dotnet
 OOP;OOP
 Programovací modely;models
+Návrhové vzory;modelsSingle
 Pole;arrays
 Grafika;graphics
 Ukládání dat;database

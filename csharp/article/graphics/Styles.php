@@ -58,7 +58,7 @@ numbers.Peek();
 </p>
 
 <h3>Lokální styl</h3>
-<p>Jená se o nastylování aktuálního okna přímo v ovládání pod okněm preview okna. Vesměs jde jen o definování vzhledu pro prvky na aktuálním okně.</p>
+<p>Jedná se o nastylování aktuálního okna přímo v ovládání pod oknem preview okna. Vesměs jde jen o definování vzhledu pro prvky na aktuálním okně.</p>
 
 <img src="images/local1.PNG">
 <p>
@@ -85,7 +85,7 @@ numbers.Peek();
     // Nejprve zvolíme cílový prvek, který nám bude styl definovat. Místo "xx" lze zvolit cokoliv z prvků, zvolil jsem TextBox, jak můžete vidět na screenshotu níže.
 
     Setter Property="xx" Value="xx"
-    // Setter nám nástavuje hodnoty(vzhled) pro námi zvolený prvek výše. Místo "xx" u Property se nastaví část vzhledu, kterou chceme modifikovat a u Value její volitelná hodnota. Níže můžete vidět, že jsem zvolil několik věcí k modifikování, např.: Property="Foreground" a Value="Blue".
+    // Setter nám nastavuje hodnoty(vzhled) pro námi zvolený prvek výše. Místo "xx" u Property se nastaví část vzhledu, kterou chceme modifikovat a u Value její volitelná hodnota. Níže můžete vidět, že jsem zvolil několik věcí k modifikování, např.: Property="Foreground" a Value="Blue".
 </code>
 </pre>
 
@@ -110,7 +110,7 @@ numbers.Peek();
 
 
 <p>
-    <i>V okně už pouźe vytvoříme daný prvek, který se nám poté automaticky zmodifikuje podle výše nastavených stylů.</i>
+    <i>V okně už pouze vytvoříme daný prvek, který se nám poté automaticky zmodifikuje podle výše nastavených stylů.</i>
 </p>
 
 

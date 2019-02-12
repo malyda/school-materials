@@ -32,3 +32,8 @@
 	<li><a href="https://facebook.github.io/react-native/">React Native</a> </li>
 	<li><a href="https://www.xamarin.com/">Xamarin</a> </li>
 </ul>
+
+<h3>Přístup k nativnímu API</h3>
+<a href="http://www.tricedesigns.com/2012/03/01/phonegap-native-plugins/">Phonegap API</a><br>
+<a href="https://tadeuzagallo.com/blog/react-native-bridge/">React native bridge </a><br>
+<a href="https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/part_1_-_understanding_the_xamarin_mobile_platform/">Xamarin Library Binding</a>

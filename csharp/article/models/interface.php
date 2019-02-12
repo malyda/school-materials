@@ -74,7 +74,7 @@ classImplemensIInterface.InheriancedMethod();
 	<strong>Špatné řešení - dědičnost:</strong> V takovém případě se nabízí použití jednoho ze základních konceptů OOP - dědičnost, který udržuje strukturu návrhu. Jenže tento způsob řešení s sebou nese velké množství problémů:
 	<ol>
 		<li>Nepřepsání rodičovské metody Wash() třída Person myje nádobí stejným způsobem jako myčka na nádobí.</li>
-		<li>Při využití záměny předka jeho potomkem (vlastnost dědičnosti) říkáme, že Person je rozšíření DishWasher (osoba je rozšířením myčky na nídobí).</li>
+		<li>Při využití záměny předka jeho potomkem (vlastnost dědičnosti) říkáme, že Person je rozšíření DishWasher (osoba je rozšířením myčky na nádobí).</li>
 		<li>Podědění atributu Name sémanticky vzato říká, že význam Name pro DishWasher a pro Person je stejný, což ve skutečnosti není.</li>
 	</ol>
 </p>

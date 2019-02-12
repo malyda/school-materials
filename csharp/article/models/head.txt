@@ -1,4 +1,4 @@
-﻿Úvod do programovacích modelů;intro.php
+Úvod do programovacích modelů;intro.php
 SOLID;solid.php
 MVC;MVC.php
 MVVM;MVVM.php
@@ -6,4 +6,3 @@ Interface;interface.php
 Interface 2;interface_student.php
 Abstrakce systému;abstraction_student.php
 Abstract class;abstractClass.php
-Strategy pattern;strategy.php

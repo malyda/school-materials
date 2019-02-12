@@ -2,3 +2,4 @@
 UI elementy;graphElements.php
 Layouty;layout.php
 ListView;listView.php
+Stránky;pages.php

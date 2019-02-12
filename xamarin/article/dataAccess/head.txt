@@ -1,2 +1,3 @@
 Přístup k uložišti;fileAccess.php
 SQLite;database.php
+Nastavení aplikace;settings.php

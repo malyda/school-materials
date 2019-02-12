@@ -4,7 +4,7 @@ body, html, html .text-base, p
 }
 .mdl-color--primary
 {
-	background-color:#27A5BE !important;
+	background-color:#E64A19 !important;
 }
 .mdl-color-text--primary
 {
@@ -13,7 +13,7 @@ body, html, html .text-base, p
 
 .mdl-layout__header
 {
-	background:#27A5BE !important;
+	background:#E64A19 !important;
 }
 
 .mdl-layout__tab.is-active::after

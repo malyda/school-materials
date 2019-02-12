@@ -79,3 +79,5 @@
 }
 </code>
 </pre>
+
+<a href="http://www.theserverside.com/news/1321158/A-beginners-guide-to-Dependency-Injection">Dependency-Injection for beginners</a>

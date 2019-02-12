@@ -35,10 +35,10 @@
 <p>
 	Definice Animal:
 		<ul>
-			<li> Dekladruje proměnnou (Field) Name, která je public </li> 
+			<li> Deklaruje proměnnou (Field) Name, která je public </li> 
 			<li> DateOfBirth, která je děditelná pouze v rámci stejné Assemly jako je abstraktní třída</li>
 			<li> Implementuje metodu AgeText(), která je společná pro všechny podtřídy (subclasses)</li>
-			<li> Předepisuje Abstraktní metodu DoSound(), kterou musí každá podtřída imlementovat</li>
+			<li> Předepisuje Abstraktní metodu DoSound(), kterou musí každá podtřída implementovat</li>
 		</ul>
 </p>
 <pre class="prettyprint linenums scroll-horizontal">
@@ -47,7 +47,7 @@
 	// Public field Name
 	public string Name;
 
-	// Could be inheritated only by classes in same assembly
+	// Could be inherited only by classes in same assembly
 	protected internal DateTime DateOfBirth = new DateTime();
 
 	// Implements age info, which is same for all animals
@@ -63,7 +63,7 @@
 
 <p>
 	Definice CatStupido implementuje vše z Abstraktní třídy pomocí vlastních metod a mňouká k tomu.<br>
-	CatStupido musí po svém implementovat abstaktní metodu DoSound() poděděnou z abstaktní třídy.
+	CatStupido musí po svém implementovat abstraktní metodu DoSound() poděděnou z abstraktní třídy.
 </p>
 <pre class="prettyprint linenums scroll-horizontal">
 <code class="language-C# ">class CatStupido : Animal
@@ -91,7 +91,7 @@
 </code></pre>
 <p>
 	Definice DogMaster spoléhá na dědičnost a implementuje pomocí vlastních metod zděděné zdroje.<br>
-	DogMaster musí po svém implementovat abstaktní metodu DoSound() poděděnou z abstraktní třídy.
+	DogMaster musí po svém implementovat abstraktní metodu DoSound() poděděnou z abstraktní třídy.
 </p>
 <pre class="prettyprint linenums scroll-horizontal">
 <code class="language-C# ">class DogMaster : Animal

@@ -144,8 +144,8 @@ class CashMethod implements Method { /* ...confirmPaymentReceived... */ }</code>
                   <p>Princip oddělení rozhraní - Tento princip nám říká, že každé rozhraní by mělo být co nejmenší možné. Třídy by měly záviset pouze na těch rozhraních, která používají.</p>
                   <p>Když rozhraní přesáhne rozumnou velikost, musí se rozdělit do několika dalších, užších. Touto změnou se zasažené třídy přepracují tak, aby implementovaly minimální potřebnou podmnožinu původních rozhraní.</p>
                   <p>Příklad porušení principu:</p>
-<code class="language-C# ">interface Lifecycle {
                   <pre class="prettyprint linenums scroll-horizontal">
+<code class="language-C# ">interface Lifecycle {
     void start();
     void stop();
 }</code>

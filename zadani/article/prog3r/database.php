@@ -1,4 +1,20 @@
 <h2>Ukládání dat - SQLite</h2>
+<h3>Inventář</h3>
+<p>
+Vytvořte aplikaci, která bude sloužit jako herní inventář</p>
+<ul>
+	<li>položky v inventáři jsou uložené v databázi vč. jejich pozice</li>
+	<li>uživateli je umožněno každou položku pomocí drag and drop systému přemisťovat. Položky nesmí být přes sebe a každá má svou velikost např. 1x1, 2x3, apod.</li>
+	<li>položek jsou alespoň dva druhy</li>
+</ul>
+<p>
+	Hodnotí se:</p>
+<ul>
+	<li>OOP</li>
+	<li>práce s UI</li>
+	<li>práce s databází</li>
+</ul>
+
 <h3>Evidence osob</h3>
 <p>
 	Vytvořte aplikaci, která umožní zaznamenávat, editovat a zobrazovat informace o osobách. Data jsou uložena v databázi SQLite.

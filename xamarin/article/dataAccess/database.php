@@ -71,7 +71,7 @@
 public TodoItemDatabase(string dbPath)
 {
     database = new SQLiteAsyncConnection(dbPath);
-    database.CreateTableAsync&lt;odoItem>().Wait();
+    database.CreateTableAsync&lt;TodoItem>().Wait();
 }
 </code></pre>
 <h4>Tabulka TodoItem</h4>

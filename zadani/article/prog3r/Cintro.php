@@ -13,16 +13,3 @@
     <li>Uživatel zadá číselnou řadu, program po zadání čísla 0 vypíše 3. nejvyšší číslo. Ve cvičení nepoužívejte pole.</li>
 	<li>Analýza textu - uřivatel zadá text např. Ajk2n4 a program vypíše, kolik je v zadaném textu malých, velkých písmen a čísel.</li>
 </ol>
-<h3>Instalace VS 17</h3>
-<img class="imgText" src="images/VS installer.png">
-<img class="imgText" src="images/VS installer 2.png">
-
-<h3>Lodě</h3>
-<ol>
-    <li>Vytvořte v konzoli hru lodě. Hráč určí pozice lodí a poté se do nich pokusí trefovat (naslepo). Pozice pro výstřel a lodě je určena pomocí souřadnic x a y.</li>
-    Hint: Použitje dvourozměrné pole
-    <li>Vytvořte hru lodě pro dva hráče (na jednom pc)</li>
-    <li>
-        Za jedničku: zpracovat hru tak, aby ji bylo možné hrát na dvou počítačích (dva hráči proti sobě). Termín do konce 1. čtrvtletí.
-    </li>
-</ol>

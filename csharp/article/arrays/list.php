@@ -10,7 +10,7 @@ V běžném použití rozlišujeme List a Vector ze dvou důvodů:</p>
 <p><i>Pozn. synchronizovaný znamená, že v jednu chvíli může s danými daty pracovat pouze jedno vlákno. Nesynchronizovaná datová struktura je k dispozici více vláknům v jeden čas, např. čtení a zápis.</i><br>
 </p>
 <h3>Spojový seznam - Linked List</h3>
-<p>Spojový seznam je rozšíření běžného seznamu.<br>
+<p>Spojový seznam nevyužívá pole jako základní datové struktury.<br>
 Dle toho, jaká data o prvcích spojový seznam ukládá se liší jeho jednotlivé typy.</p>
 <img src = "images/LinkedList.png" class="center"><br>
 
@@ -72,4 +72,4 @@ foreach(int x in arrayList)
 <a href='http://beginnersbook.com/2013/12/difference-between-arraylist-and-vector-in-java/'> Rozdíl mezi ArrayList a Vector</a>
 <a href='http://stackoverflow.com/a/2279059/3864686'> Rozdíl mezi ArrayList a List</a>
 <a href='http://stackoverflow.com/questions/169973/when-should-i-use-a-list-vs-a-linkedlist'> Kdy použít LinkedList, ArrayList či List</a>
-
+<a href="https://www.geeksforgeeks.org/linked-list-set-1-introduction/">Deklarace List</a>

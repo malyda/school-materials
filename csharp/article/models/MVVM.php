@@ -27,7 +27,7 @@ Jedná se tedy o vzorec pro rozčlenění kódu v projektu. Kdy se dá aplikovat
 
 <H4>View</H4>
 <p>
-    Tato vrstva definuje strukturu, layout a obecně vzhled uživatelského rozhraní. View by měl být ve většíně napsaný v XAML s minimálním code-behind, který neobsahuje logiku (př. Page1.xaml je část s XAML a Page1.xaml.cs je code-behind pro tuto část). View a ViewModel jsou propojeny za pomoci code-behind.<br>
+    Tato vrstva definuje strukturu, layout a obecně vzhled uživatelského rozhraní. View by měl být ve většině napsaný v XAML s minimálním code-behind, který neobsahuje logiku (př. Page1.xaml je část s XAML a Page1.xaml.cs je code-behind pro tuto část). View a ViewModel jsou propojeny za pomoci code-behind.<br>
     <img src="images/View.png" title="Ukázka části View" alt="Ukázka části View" />
 </p>
 
