@@ -48,3 +48,32 @@ Pozn.<i> běžně jsou tyto aplikace propojené s QR čtečkou, která načítá
 <a href="https://github.com/malyda/Xamarin-SQLite">Zdroje k databázi</a><br>
 <a href="https://ucitel.sps-prosek.cz/~maly/PRG/materials/xamarin/#sqlite">Vysvětlení SQLite</a>
 </p>
+
+<h3>Průměry známek</h3>
+<p>
+	Vytvořte aplikace, které evidují známky (váha,hodnota) a jejich předměty. Aplikace umí vypočítat vážený průměr z předmětu.
+</p>
+<p>
+	Data ukládá do lokálního souboru SQLite - nuget SQLite.Net.PCL (Krueger)
+</p>
+<p>
+	Projekt je rozdělen následovně:
+</p>
+<p>
+	Client
+</p>
+<ul>
+	
+		<li> Console (.NET Core)</li>
+		<li> XamarinForms -> hotové veškeré UI (min. 2 page)</li>
+</ul>
+<p>
+	Model
+</p>
+<ul>
+		<li> .NET Standard </li>
+		<li> obsahuje veškerou logiku a SQLite </li>
+</ul>
+<p>
+	Za jedničku: WPF client (.NET Framework)
+</p>

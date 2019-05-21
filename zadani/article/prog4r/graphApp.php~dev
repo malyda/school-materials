@@ -37,6 +37,14 @@
 	<li>Aplikace je grafická - WPF</li>
 	<li>Ze serveru dokáže získat seznam osob dle parametru, jednu konkrétní osobu, kterou umožní měnit a také zakládat nové osoby</li>
 </ol>
+
+<h3>Synchronizace DB se serverem</h3>
+<p>
+	Vytvořte WPF aplikaci, která eviduje vámi vybrané položky. Ukládá je do SQLite lokální databáze. Aplikace data zasílá na webovou API ve formátu json. Účelem aplikace je synchronizace dat se serverem, kdy se počítá s přípojením více aplikací v jednu chvíli.
+</p>
+
+
+
 <h3>Objednávkový systém</h3>
 <p>
     Vytvořte aplikaci, která umožní zákazníkům nákup zboží, správu svých objednávek a informací o profilu. Klientská aplikace (WPF) komunikuje s API na straně serveru, kde je i databáze.
@@ -79,13 +87,27 @@
 <p>
     Označte data v lokální databázi tak, abyste je mohli jednoduše synchronizovat. Vyřešte kolize id, smazaných záznamů apod.
 </p>
-<p><strong>Odevzdání 9.4</strong></p>
+
+<h3>Feature flags</h3>
+<p>
+	V mnoha aplikacích je praxí, že nové funkce jsou dodávány v předstihu a jsou povolovány pouze vybraným uživatelům.
+</p>
+<p>
+	Do svého objednávkového systému přidejte graf zisků za měsíc, který budete zobrazovat pouze konkrétním vybraným uživatelům. Informace o tom, zda může uživatel vidět graf získávejte ze své API. 
+</p>
+<p>
+	Do webové  části vytvořte IU, kde může administrátor vytvářet FeatureFlags (Funkcionalita, povolení, uživatelé).
+</p>
+
+
 <h3>Jednoduchá autentizace</h3>
 <p>Jednoduché přihlášení bez nutnosti certifikátů: klient zašle na server uživ. jméno, server vrátí session key (generovaný ). Klient zahashuje heslo spolu s session key a pošle na server, server zahashuje session key a porovná s hashem hesla v interní DB. Pokud se hashe shodují, zařadí se hash key  a hesla mezi autentizované (po určitý čas) a klient ho posílá při každém dotazu.</p>
 <a href="http://stackoverflow.com/questions/12254710/client-server-authentication">Jednoduchá autentizace</a><p></p>
 <a href="https://www.codeproject.com/Articles/2642/SSL-TLS-client-server-for-NET-and-SSL-tunnelling">SSL/TLS autentizace</a>
 <a href="http://stackoverflow.com/questions/21732063/how-to-create-json-post-to-api-using-c-sharp">Json data v POST</a><p></p>
 <a href="http://stackoverflow.com/questions/11558353/rest-api-to-put-or-to-post?noredirect=1&lq=1">PUT, POST, DELETE</a>
+
+
 
 <h3>Práce pro vylepšení známky - SSL/TLS autentizace</h3>
 <p>
