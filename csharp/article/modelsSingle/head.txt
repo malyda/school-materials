@@ -1,0 +1,16 @@
+Adapter;adapter.php
+Adapter 2;adapter2.php
+Builder;Builder.php
+Bridge;bridge.php
+Command;command.php
+Decorator;decorator.php
+Facade;facade.php
+Factory;factory.php
+Flyweight;Flyweight.php
+Interpreter;interpreter.php
+Memento;memento.php
+Observer;observer.php
+State;state.php
+Strategy;strategy.php
+Task-based Asynchronous Pattern;tap.php
+Visitor;visitor.php

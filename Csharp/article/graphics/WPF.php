@@ -33,9 +33,10 @@ Jeho základní myšlenkou je, že se aplikace skládá z View ViewModel a Model
 <a href="http://www.dotnetportal.cz/clanek/4994/MVVM-Model-View-ViewModel" class="right"> Rozšíření tématu MVVM</a><br><br>
 
 <h3>Odkazy</h3><br>
-<a class="right" href="attachment/Wpf.zip">Ukázka jednoduché aplikace ve WPF</a><br><br>
-<a class="right" href="attachment/Wpf3D.zip">Ukázka jednoduché 3D aplikace ve WPF</a><br><br>
-<a href="http://www.wpf-tutorial.com/about-wpf/what-is-wpf/" class="right"> What is WPF?</a><br>
-<a href="https://dzone.com/articles/10-reasons-switch-wpf" class="right"> 10 reasons to switch to WPF </a><br>
-<a href="http://www.codemag.com/article/0911031" class="right"> Why WPF?</a><br>
+<a  href="attachment/Wpf.zip">Ukázka jednoduché aplikace ve WPF</a>
+<a  href="attachment/Wpf3D.zip">Ukázka jednoduché 3D aplikace ve WPF</a>
+<a href="http://www.wpf-tutorial.com/about-wpf/what-is-wpf/" > What is WPF?</a>
+<a href="https://dzone.com/articles/10-reasons-switch-wpf" > 10 reasons to switch to WPF </a>
+<a href="http://www.codemag.com/article/0911031" > Why WPF?</a>
+<a href="http://materialdesigninxaml.net/#getStarted" >Material Design pro WPF</a>
 

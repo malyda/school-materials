@@ -29,7 +29,7 @@ Trojrozměrné pole je graf os x, y a z<br><br></p>
 Jednorozměrné pole si lze představit jako tabulku o jednom řádku a několika sloupcích.<br><br> <br></p>
 <div style="text-align:center">Jednorozměrné pole</div>
 <div >
-<table >
+<table class="table-basic">
   <tr>
     <th>Index</th>
 	<td>0</td>
@@ -52,10 +52,10 @@ Jednorozměrné pole si lze představit jako tabulku o jednom řádku a několik
 <p>Dvojrozměrné pole si lze představit jako tabulku o více řádcích.<br><br>
 <br><div style="text-align:center">Dvojrozměrné pole</div></p>
 
-<table>
+<table class="table-basic">
   <tr>
-    <th>Indexy/<br><br>Hodnoty</th>
-    <td  >0</td>		
+    <th>Indexy/<br>Hodnoty</th>
+    <td>0</td>		
     <td>1</td>
 	<td>2</td>
 	<td>3</td>

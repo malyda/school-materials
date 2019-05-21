@@ -106,8 +106,8 @@ private static void RepairTop(int[] array, int bottom, int topIndex)
 <p> <i>Pozn. Tento algoritmus je vhodný zejména díky jeho zaručeně neměnné složitosti. Touto vlastností předčí QuickSort, který v nejhorších případech zaostává.<br>
  </i>
 <br><br> Odkazy pro rozšíření daného téma:<br></p>
- <a class="right" href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-heap-sort-trideni-cisel-podle-velikosti/">ITnetwork</a><br>
- <a class="right" href="https://www.algoritmy.net/article/17/Heapsort" >Algoritmy.net</a>
+ <a  href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-heap-sort-trideni-cisel-podle-velikosti/">ITnetwork</a>
+ <a  href="https://www.algoritmy.net/article/17/Heapsort" >Algoritmy.net</a>
  
 
  

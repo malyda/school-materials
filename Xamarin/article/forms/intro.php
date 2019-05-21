@@ -1,4 +1,4 @@
-﻿<h2>Úvod do Xamarin.Forms</h2>
+<h2>Úvod do Xamarin.Forms</h2>
 	<p class="introduction">
 		Logika aplikace je sdílená v rámci Xamarin platformy, nicméně UI prvky jsou na každé platformě odlišné. Xamarin.Forms sjednocuje UI prvky do jednotného rozhraní, tak aby mohlo být sdílené společně s kódem.
 	</p>
@@ -81,5 +81,7 @@ public class App : Application
 	<a class="right" href="https://developer.xamarin.com/guides/xamarin-forms/getting-started/introduction-to-xamarin-forms/"> Getting started </a>
 	<br>
 	<a class="right" href="http://www.rarelyimpossible.com/blog/2016/9/26/building-beautiful-apps-with-xamarin-forms"> Beutifull apps with Xamarin.Forms </a>
+<br>
+<a class="right" href="https://blog.xamarin.com/5-ways-boost-xamarin-forms-app-startup-time/?utm_medium=social&utm_campaign=blog&utm_source=facebook&utm_content=top-5-reduce-xamarinforms-startup">Xamarin.Forms faster startup</a>
 </p>		
 	

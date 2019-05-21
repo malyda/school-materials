@@ -26,6 +26,6 @@ To je problém zejména tehdy, kdy pracuje více vláken se sdílenými daty (Sh
 <p>Z hlediska nutnosti mnohem větší kontroly je dobré si předem dobře rozmyslet, kdy využít více vláken.</p>
 
 <i>Pozn. V C# se pro vlákno aplikace používá slovo Task a Thread je jedna ze tříd v .NET, která zajišťuje vykonání Tasku.</i><br><br>
- <a class="right" href="article/threads/TaskApp.zip" download>Zdrojové kódy pro vlákna</a> <br>
+ <a class="right" href="article/threads/TaskApp.zip" download>Zdrojové kódy pro vlákna</a>
   <a class="right" href="http://codingsec.net/2015/10/c-multithreading/" >Multithreading</a>
 

@@ -9,12 +9,7 @@
 
 <h3>Vstupy uživatele a číselné datové typy</h3>
 <ol>
-	<li> Vypsat uživatelem zadaný vstup </li>
-	<li> Nechat uživatele zadat jedno číslo (maximum = 100%) a poté procento. Program vypíše kolik ze zadaného čísla reprezentuje zadané procento</li>
-</ol>
-
-<h3>Primitivní pole</h3>
-<ol>
-	<li> Vygenerovat primitivní pole o 100 náhodných prvcích</li>
-	<li> Spočítat lichá čísla z uživatelem zadaného array/ jejich součet/ varianta i se sudými čísly </li>
+    <li>Uživatel zadává čísla, která tvoří řadu např. 1 2 3 4 5 6 je nepřerušená, 2 4 6 8 9 je přerušená. Ve chvíli, kdy uživatel přeruší řadu, program vypíše chybovou hlášku.</li>
+    <li>Uživatel zadá číselnou řadu, program po zadání čísla 0 vypíše 3. nejvyšší číslo. Ve cvičení nepoužívejte pole.</li>
+	<li>Analýza textu - uřivatel zadá text např. Ajk2n4 a program vypíše, kolik je v zadaném textu malých, velkých písmen a čísel.</li>
 </ol>

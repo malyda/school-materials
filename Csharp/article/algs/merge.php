@@ -234,6 +234,6 @@ public static void merge(int[] list, int[] left, int[] right)
 </code></pre><br><br>
 <p><i>Pozn. problémem tohoto algoritmu je nutnost pomocné paměti pro každé provedení funkce</i>
 <br><br> Odkazy pro rozšíření daného téma:<br></p>
- <a class="right" href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-merge-sort-trideni-cisel-podle-velikosti/">itnetwork.cz</a><br>
- <a class="right" href="https://www.algoritmy.net/article/13/Merge-sort" >Algoritmy.net</a>
+ <a  href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-merge-sort-trideni-cisel-podle-velikosti/">itnetwork.cz</a>
+ <a  href="https://www.algoritmy.net/article/13/Merge-sort" >Algoritmy.net</a>
  

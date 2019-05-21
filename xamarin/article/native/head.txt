@@ -1,0 +1,4 @@
+Notifikace;notifications.php
+Obrázky z galerie;imagesFromGalery.php
+Android zkratky;androidShortcuts.php
+Action alert;actionAlert.php

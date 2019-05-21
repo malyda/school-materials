@@ -1,7 +1,11 @@
+﻿Dlouhodobé projekty;longTherm.php
 Úvod do C#;Cintro.php
 OOP;OOP.php
-WinForms;WinForms.php
-Pole;arrays.php
-Řadící algoritmy;algs.php
-Dlouhodobé projekty;longTherm.php
+Nástroje abstrakce;abstraction.php
+WPF;WPF.php
+Práce se soubory;files.php
+Ukládání dat;database.php
+Knihovny;libs.php
+Ze cvičení;extend.php
+Instalace VS17;install.php
 Příprava na maturitu;okr.php

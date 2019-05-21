@@ -7,7 +7,7 @@ Možné operace s hashovací tabulkou:
 	<li>K prvkům se přistupuje pomocí indexů</li>
 </ul>
 <h3>Vizualizace</h3>
-<table>
+<table class="table-basic">
   <tr>
 	<td><strong>Klíč</strong></td>
 	<td><strong>Hodnota</strong></td>

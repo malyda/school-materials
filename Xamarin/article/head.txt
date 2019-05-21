@@ -1,3 +1,9 @@
 Úvod do Xamarin;intro
 Struktura projektu;structure
 Xamarin Forms;forms
+První kroky;firststeps
+Visual Studio;visualStudio
+Ukládání dat;dataAccess
+API;API
+Nativní kód;native
+Pluginy;tools

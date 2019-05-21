@@ -1,2 +1,5 @@
 Úvod do Forms;intro.php
-UI prvky;graphElements.php
+UI elementy;graphElements.php
+Layouty;layout.php
+ListView;listView.php
+Stránky;pages.php

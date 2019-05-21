@@ -1,24 +1,61 @@
 <h2>OOP</h2>
+<h3>Tom a Jerrys</h3>
+<p>
+	Kočka loví myši, když chytne myš zvýší se jí život (+1) a myš zemře.
+	Když myš nechytne, myš uteče a kočka ztratí život.
+</p>
+<p>
+	Program začíná s náhodně vygenerovaným počtem myší a zkouší, zda je
+	kočka všechny chytí.
+</p>
 
-<h3>Instance třídy a listové pole</h3>
+<h3>Vytvořte vlastní Magic 8-Ball</h3>
+<p>
+	Vytvořte konzolovou aplikaci, kde uživatel zadává otázky a aplikace mu vypisuje dle principu Magic 8-Ball odpovědi.
+</p>
+<p>
+	Vytvořte třídu, která reprezentuje <a href="https://en.wikipedia.org/wiki/Magic_8-Ball">Magic 8-Ball</a>, tato třída obsahuje:
+</p>
+<ul>
+	<li>vlastnost - pole možných odpovědí</li>
+	<li>vlastnost - instance Random</li>
+	<li>metoda - dejOdpoved, která přijímá parametr s otázkou</li>
+</ul>
+<p>Ttřída Odpoved:</p>
+<ul>
+	<li>vlastnost - hodnota odpovědi</li>
+	<li>vlastnost - typ odpovědi</li>
+</ul>
+<p>
+	Typy odpovědí jsou: kladná, opatrná a negativní. Dle typu odpovědi se text odpovědi ve výpisu do konzole zabarví (zelená, žlutá, červená).
+</p>
+
+<h3>Instance třídy a pole - List</h3>
  <ol>
-	<li> Program, který implementuje nově vytvořenou třídu, která reprezentuje jednu pokerovou kartu. Pomocí změn hodnot atributů vytvoří celý balíček 52 karet. </li>
-	<li> Program, který reprezentuje hru: 21 oko bere. Používá balíček karet vytvořených v bodě výše. Program hru implementuje tak, že počítač je bankéř a uživatel je hráč. Bankéř také hraje.
+     <li>
+         Vytvořte program, který umožní pracovat s informacemi dle následující struktury:
+         <ul>
+             <li>
+                 Program eviduje domy
+             </li>
+             <li>
+                 V domech žijí rodiny - List
+             </li>
+             <li>
+                 Rodiny se skládají z jednotlivých osob
+             </li>
+         </ul>
+         Výstupem úkolu je kód s vhodně navrhnutými třídami.
+     </li>
+     <li> Evidence osob - vytvořte program, který eviduje osoby. Osoby se ukládají do pole (List). Osoby lze přidávat, měnit a mazat.
+         <br>
+         Eviduje se:
+         <ul>
+             <li>Jméno</li>
+             <li>Přijmení</li>
+             <li>Datum narození</li>
+             <li>Pohlaví</li>
+         </ul>
+     </li>
 </ol>
-
-<h3>Práce se souborem a MVC </h3>	
-<ol>
-	<li> Zpracovat veškerá TODO ve třídě Model.BasicT v <a href='../zdroje/MVC.7z'> projektu </a><br>
-	*Za jedničku lokace souboru v AppData</li>
-	<li> Napsat program, který bude číst vstupy uživatele. Zpracovávat bude pouze vstupy obsahující jedno slovo, při jiných je uživatel vyzván, aby zadal správnou hodnotu. Program bude kontrolovat zadaná slova a ta, která budou splňovat podmínku reprezentují číselnou hodnotu např. malý = 1, větší = 2, velký = 3.<br>
-	Účelem je, aby program naplnil zadanou číselnou hodnotu na základě slovních vstupů. Čím více se hodnota bude blížit k jejímu naplnění, tím se budou různit reakce programu např. max = 10, aktuální hodnota = 1 -> output: Ještě můžeš hodně/ max = 10, aktuální hodnota = 9 -> output: Už stačí jen trocha.<br>
-	Při naplnění hodnoty o tom dá program uživateli vědět. <br>
-	* Bonus: navázat na konkrétní situaci například na jinou, než slazení kávy 
-	</li>
-</ol>
-<h3>21 oko bere </h3>
-<ol>	
-	<li> Zpracovat hru 21 oko bere, tak aby odpovídala MVC modelu tj.všechny výstupy na obrazovku (konsoli) budou publikovány pomocí speciálně vybrané třídy/tříd. <br>
-	Během hry bude možnost celou hru zastavit -> zapsat celý balíček a karty v rukách hráčů do souboru, tak aby bylo možné při opětovném spuštění programu pokračovat ve hře. <br>
-	Rozdělit projekt do složek tak, aby bylo jasné která složka obsahuje třídy pro hru, která pro publikaci výsledků a která pro práci se soubory </li>	
-</ol>
+<img src="images/diagram-gmm.png">

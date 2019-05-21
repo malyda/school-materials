@@ -1,6 +1,6 @@
 <?php 
 $topic = "Zadání";
-$path = "../3 rocnik";
+$path = "../zadani";
 $pathMaterial = "../src/web";
 require "../../src/web/main.php";
  ?>

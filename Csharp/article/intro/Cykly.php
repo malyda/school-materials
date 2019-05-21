@@ -3,19 +3,8 @@
 
 <p>Základní typy cyklů - <b>while, for, dowhile </b> <br>
 Rozšířené typy cyklů - <b>foreach</b> <br>
-<strong>Každý cyklus je možné zapsat pomocí návěstí a skoků</strong>:</p>
+
 <p><strong>While</strong></p>
-<pre class="prettyprint linenums scroll-horizontal">
-<code class="language-C# ">cyklus: // návěstí
-	if(podmínka) 
-	{
-		provedAkci;
-		goto cyklus; // Cyklus se opakuje dokud je podmínka splněná -> goto = skok
-	}
-	else goto end; // podmíněný skok
-end:
-</code></pre>
-<p>Či ekvivalentní zápis</p>
 <pre class="prettyprint linenums scroll-horizontal">
 <code class="language-C# ">while(podmínka)
 {
@@ -60,8 +49,8 @@ while(carIsMoving)metres ++; // Přičte k metres 1
 <p>Výstup:<br>
 12345678910<br><br>
 Přečti celé pole a vypiš jeho obsah. <br>
-Cyklus se provede tolikrát, kolik má pole jednotlivých prvků a vypíše do konzole každý jeden prvek<br>
-<strong>Foreach</strong><br></p>
+Cyklus se provede tolikrát, kolik má pole jednotlivých prvků a vypíše do konzole každý jeden prvek</p>
+<strong>Foreach</strong><br>
 <pre class="prettyprint linenums scroll-horizontal">
 <code class="language-C# ">foreach(String prvek in pole)
 {
@@ -69,4 +58,16 @@ Cyklus se provede tolikrát, kolik má pole jednotlivých prvků a vypíše do k
 	// Pokud je pole prázdné, neprovede se ani jednou
 	// Pokud je pole neinicializované tj. == null, zahlásí chybu
 } 
+</code></pre>
+Každý cyklus je možné zapsat pomocí návěstí a skoků, ale jedná se o <strong>zastaralou a méně používanou formu zápisu</strong>:</p>
+<p><strong>While</strong></p>
+<pre class="prettyprint linenums scroll-horizontal">
+<code class="language-C# ">cyklus: // návěstí
+	if(podmínka) 
+	{
+		provedAkci;
+		goto cyklus; // Cyklus se opakuje dokud je podmínka splněná -> goto = skok
+	}
+	else goto end; // podmíněný skok
+end:
 </code></pre>

@@ -24,6 +24,6 @@ foreach( string number in numbers ) Console.WriteLine(number);
 // Odstraní první prvek
 String prvek = numbers.Dequeue();
 
-// Získá poslední prvek ve frontě
+// Získá první prvek ve frontě
 numbers.Peek();
 </code></pre>

@@ -113,3 +113,4 @@ Jazyky běžící pomocí VirtualMachine: <strong>C#, JAVA</strong><br></p>
 	<li>VirtualMachine interpretuje potřebné části kódu, když jsou potřeba</li>
 </ul><br>
 <br><a class="right" href="http://www.itnetwork.cz/csharp/zaklady/c-sharp-tutorial-uvod-do-jazyka-a-dot-net-framework/">Článek k rozšíření daného téma</a>
+<a href="https://www.codeproject.com/Articles/362076/Understanding-Common-Intermediate-Language-CIL">CIL advanced</a>

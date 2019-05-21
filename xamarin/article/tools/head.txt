@@ -1,0 +1,2 @@
+Čtečka čárových kódů;BarcodeScanner.php
+GPS;gps.php

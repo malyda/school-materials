@@ -51,5 +51,5 @@ for(int i = 0;  i< array.Length-1; i++)
 <p><i>Pozn. Je rychlý i na malých polích a jednoduchý na napsání, někdy výkonnější než Quick sort</i><br><br>
 Jeho rozšířením je:  <a class="right" href="https://www.algoritmy.net/article/154/Shell-sort">Shell-sort</a><br>
 <br><br> Odkazy pro rozšíření daného téma:<br></p>
- <a class="right" href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-insertion-sort-trideni-cisel-podle-velikosti/">ITnetwork</a><br>
- <a class="right" href="https://www.algoritmy.net/article/8/Insertion-sort">Algoritmy.net</a>
+ <a  href="http://www.itnetwork.cz/algoritmy/razeni/algoritmus-insertion-sort-trideni-cisel-podle-velikosti/">ITnetwork</a>
+ <a  href="https://www.algoritmy.net/article/8/Insertion-sort">Algoritmy.net</a>
