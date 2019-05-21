@@ -20,3 +20,19 @@
     Hra využívá otázek a odpovědí, které jsou uložené v souboru (formát dat dle Vašich preferencí). Výhry a jména hráčů se ukládají pro pozdější výpis v highscore. Aplikace je rozdělena na jednotlivé stránky.
 </p>
 <img class="img-custom" src="https://i.ytimg.com/vi/gM4N8Mg5-w4/hqdefault.jpg">
+
+
+<h4>VLC</h4>
+<p>
+	S pomocí VLC nuget balíčku např. <a href="https://github.com/ZeBobo5/Vlc.DotNet">Vlc.DotNet</a> vytvořte vlastní video přehráč podporující platformu WPF.
+</p>
+<p>
+	Přehrávač umí:
+</p>
+<ul>
+	<li>Přehrávat uživatelem vybraná videa</li>
+	<li>Umožňuje video pozastavit, obnovit, posunout o 30 sec. vpřed a o 5 zpět, přehrát další, či předešlé video z playlistu</li>
+	<li>Umožnuje uživateli vytvořit jeho vlastní playlist</li>
+	<li>Další dle potřeby uživatele</li>
+</ul>
+<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/8/2012/09/vlc-media-player-convert-video-files-00.jpg">

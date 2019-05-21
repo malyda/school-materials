@@ -18,10 +18,23 @@
     Požadavky na technické zpracování:
 </p>
 <ul>
-    <li>Aplikace je celá napsaná v MVVM modelu</li>
     <li>Aplikace uchovává informace o profilech ve formátu json</li>
 </ul>
+<p>
+	Za jedničku navíc: Aplikace je celá napsaná v MVVM modelu
+</p>
 <img src="images/eithermouse.png" class="img-thirty">
 <p>
     Pro změnu nastavení myši využívejte knihovnu User32.dll, zde naleznete i atributy, které souvisejí s nastavenm myši viz. <a href="https://msdn.microsoft.com/en-us/library/ms724947.aspx">SystemParametersInfo dokumentace</a>.
+</p>
+
+<h3>Either mouse + REST API</h3>
+<p>
+	Rozšiřte předešlou aplikaci o client-server komunikaci, ta se týká profilů nastavení myši. 
+</p>
+<p>
+	Profil je možné na server uložit, načíst všechny a načíst vybraný např. dle ID.
+</p>
+<p>
+	Klientská aplikace si ukládá data do lokální databáze a umí využívat server pro synchronizaci jejich.
 </p>

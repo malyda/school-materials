@@ -1,0 +1,4 @@
+Dělení programovacích jazyků;delba.php
+Programovací paradigma;paradigma.php
+Jazyky C;C.php
+Kompilace;kompilace.php
